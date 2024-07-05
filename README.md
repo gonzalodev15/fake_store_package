@@ -4,20 +4,37 @@ Este es un paquete que permite una fácil interacción con la API de FakeStore. 
 
 # Agrega la dependencia en pubspec.yaml
 
+Desde pub.dev
+
+```yaml
+dependencies:
+  fake_store_package: ^0.0.4
+```
+
+Desde Github
+```yaml
 dependencies:
   fake_store_package:
     git:
       url: git://github.com/gonzalodev15/fake_store_package.git
+```
 
 
 # Instala la dependencia
-Después de agregar la dependencia en pubspec.yaml, ejecuta el comando 'flutter pub get' en la terminal para instalar el paquete
+Después de agregar la dependencia en pubspec.yaml, ejecuta el comando 
+
+```dart 
+flutter pub get
+```
+ 
+en la terminal para instalar el paquete
 
 # Importa y utiliza el paquete en tu código
 Agrega el siguiente import: 
 
+```dart 
 import 'package:fake_store_package/API/fakestore_api.dart';
-
+```
 
 # Una vez hecho esto podrás acceder a todos los métodos implementados los cuales son los siguientes:
 

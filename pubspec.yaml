@@ -1,6 +1,6 @@
 name: fake_store_package
 description: "Paquete de flutter para realizar consultas simples a la FakeStore API"
-version: 0.0.1
+version: 0.0.4
 homepage: https://github.com/gonzalodev15/fake_store_package
 
 environment:

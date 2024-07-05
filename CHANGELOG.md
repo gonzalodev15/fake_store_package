@@ -1,3 +1,3 @@
-## 0.0.1-dev.1 
+## 0.0.4
 
 - Versión inicial que realiza consultas básicas a la FakeStore API
