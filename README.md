@@ -13,7 +13,7 @@ dependencies:
 # Instala la dependencia
 Después de agregar la dependencia en pubspec.yaml, ejecuta el comando 'flutter pub get' en la terminal para instalar el paquete
 
-#Importa y utiliza el paquete en tu código
+# Importa y utiliza el paquete en tu código
 Agrega el siguiente import: 
 
 import 'package:fake_store_package/API/fakestore_api.dart';
