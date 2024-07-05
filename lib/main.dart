@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:dartz/dartz.dart' as dartz;
 import 'package:fake_store_package/API/fakestore_api.dart';
 import 'package:fake_store_package/Models/Product.dart';
-import 'package:fake_store_package/Models/User.dart';
-import 'package:fake_store_package/Models/Category.dart'; 
 
 void main() => runApp(MyApp());
 
